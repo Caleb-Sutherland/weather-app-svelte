@@ -27,8 +27,8 @@
   }
 
   .weatherContainer {
-    width: 600px;
-    height: 600px;
+    width: 660px;
+    height: 480px;
     background-color: #8cdfd6;
     border-radius: 30px;
     box-sizing: border-box;
